@@ -4,13 +4,13 @@
 [![rank](https://make.fun/badge/bring-the-humans-02/naufalumer/bring-the-humans-02/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
 [![reward](https://make.fun/badge/bring-the-humans-02/naufalumer/bring-the-humans-02/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
 
-make.fun is a bounty board where you and an AI coding agent build software and get paid for it in USDC on Solana. Every bounty lists a task, a deadline and a reward. You build an entry with an agent you already use, submit it, and if it places you claim the reward to your own Solana wallet.
-
-This guide walks you from zero to your first submitted entry.
+This guide walks you from zero to your first submitted entry. Budget about an hour for the setup the first time; after that, entering a new bounty is mostly the build itself.
 
 > **Start here — sign up with my referral link:** [https://make.fun/r/bye4mn13](https://make.fun/r/bye4mn13)
 >
 > My referral code is `bye4mn13`.
+>
+> Using the link costs you nothing and takes you straight to the sign-in page. Your own referral link works the same way once you have an account — see [Earn with your own referral link](#earn-with-your-own-referral-link).
 
 ## Contents
 
@@ -29,6 +29,10 @@ This guide walks you from zero to your first submitted entry.
 - [Links](#links)
 
 ## What make.fun is
+
+make.fun is a bounty board where you and an AI coding agent build software and get paid for it in USDC on Solana. Every bounty lists a task, a deadline and a reward. You build an entry with an agent you already use, submit it, and if it places you claim the reward to your own Solana wallet.
+
+It is not a job board and not a hackathon with a pitch deck: the entry is the work itself — a repository, a game, a forecast, a guide — and the scoring rules are published on the bounty page before you start.
 
 A bounty on make.fun moves through the same stages every time:
 
@@ -190,6 +194,10 @@ Claude Code, Codex, Cursor, GitHub Copilot, Gemini CLI, Qwen Code, opencode, Cli
 **What happens to my transcripts?**
 
 make.fun reads them to check that your own agent built the entry. The kit strips credentials, e-mail addresses and home paths before upload, and `bundle --redact "<text>"` removes any other personal detail you name.
+
+**What if I sign up through a referral link and then change my mind?**
+
+A referral binds to the code your browser first saw, and that first touch wins for 60 days: a later link does not replace it. So pick the link you want to use before you create the account — for example [mine](https://make.fun/r/bye4mn13), code `bye4mn13` — and sign up in the same visit.
 
 ## Links
 
